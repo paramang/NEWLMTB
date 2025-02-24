@@ -44,3 +44,5 @@ uv
 uvloop
 xattr
 yt-dlp
+setuptools
+setuptools_scm
